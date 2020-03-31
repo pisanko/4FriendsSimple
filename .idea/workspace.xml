@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31a45821-8dee-4f1d-b174-0407da0138d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/4FriendsSimple.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zqur5E8tVJuoXZpVeB54hBjcR1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31a45821-8dee-4f1d-b174-0407da0138d2" name="Default Changelist" comment="" />
+      <created>1585579140805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585579140805</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1585663773739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585663773739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="207" width="510" height="337" key="#com.intellij.tools.ToolEditorDialog" timestamp="1585579544198">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="415" y="207" width="510" height="337" key="#com.intellij.tools.ToolEditorDialog/0.27.1360.698@0.27.1360.698" timestamp="1585579544198" />
+    <state x="278" y="27" width="793" height="698" key="CommitChangelistDialog2" timestamp="1585664472872">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="278" y="27" width="793" height="698" key="CommitChangelistDialog2/0.27.1360.698@0.27.1360.698" timestamp="1585664472872" />
+    <state x="463" y="133" width="447" height="484" key="FileChooserDialogImpl" timestamp="1585664224816">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="463" y="133" width="447" height="484" key="FileChooserDialogImpl/0.27.1360.698@0.27.1360.698" timestamp="1585664224816" />
+    <state x="469" y="275" key="Github.CreateGistDialog" timestamp="1585664003932">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="469" y="275" key="Github.CreateGistDialog/0.27.1360.698@0.27.1360.698" timestamp="1585664003932" />
+    <state x="515" y="270" width="320" height="210" key="Github.ShareDialog" timestamp="1585664391234">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="515" y="270" width="320" height="210" key="Github.ShareDialog/0.27.1360.698@0.27.1360.698" timestamp="1585664391234" />
+    <state width="1337" height="245" key="GridCell.Tab.0.bottom" timestamp="1585663260716">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state width="1337" height="245" key="GridCell.Tab.0.bottom/0.27.1360.698@0.27.1360.698" timestamp="1585663260716" />
+    <state width="1337" height="245" key="GridCell.Tab.0.center" timestamp="1585663260715">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state width="1337" height="245" key="GridCell.Tab.0.center/0.27.1360.698@0.27.1360.698" timestamp="1585663260715" />
+    <state width="1337" height="245" key="GridCell.Tab.0.left" timestamp="1585663260715">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state width="1337" height="245" key="GridCell.Tab.0.left/0.27.1360.698@0.27.1360.698" timestamp="1585663260715" />
+    <state width="1337" height="245" key="GridCell.Tab.0.right" timestamp="1585663260715">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state width="1337" height="245" key="GridCell.Tab.0.right/0.27.1360.698@0.27.1360.698" timestamp="1585663260715" />
+    <state x="257" y="27" width="1012" height="698" key="SettingsEditor" timestamp="1585663503678">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="257" y="27" width="1012" height="698" key="SettingsEditor/0.27.1360.698@0.27.1360.698" timestamp="1585663503678" />
+    <state x="275" y="111" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1585663821452">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="275" y="111" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1360.698@0.27.1360.698" timestamp="1585663821452" />
+    <state x="336" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1585645932405">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="336" y="202" key="com.intellij.ide.util.TipDialog/0.27.1360.698@0.27.1360.698" timestamp="1585645932405" />
+    <state x="435" y="92" width="479" height="566" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1585664360363">
+      <screen x="0" y="27" width="1360" height="698" />
+    </state>
+    <state x="435" y="92" width="479" height="566" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.27.1360.698@0.27.1360.698" timestamp="1585664360363" />
+  </component>
+</project>
